@@ -86,12 +86,14 @@ function Header(props) {
     >
       Dashboard
     </NavLink>
+    {/*
     <NavLink className="navbar__link navlink" to="/register">
       <MDBBtn color="green" size="sm">Sign Up</MDBBtn>
     </NavLink>
     <NavLink className="navbar__link navlink" to="/login">
       <MDBBtn color="green" size="sm">Login</MDBBtn>
     </NavLink>
+   */}
   </nav>
    )
 );
